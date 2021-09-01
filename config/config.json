@@ -1,0 +1,5 @@
+{
+    "PORT": 8080,
+    "MONGO_URL": "mongodb://localhost:27017/ecommerce",
+    "MONGO_DB": "mongodb+srv://dbJavier:fenixkai420@cluster0.t85ok.mongodb.net/test?authSource=admin&replicaSet=atlas-agfues-shard-0&readPreference=primary&appname=MongoDB%20Compass&ssl=true"
+}
